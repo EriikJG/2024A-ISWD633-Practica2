@@ -33,7 +33,7 @@ Para obtener la contraseña solicitada es necesario ingresar al contenedor.
 docker exec <nombre contenedor> <comando> <argumentos opcionales>
 ```
 ```
- docker exec jenkins-container ls
+ docker exec jenkinks ls
 
 ```
 

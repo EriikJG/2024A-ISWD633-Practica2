@@ -20,7 +20,7 @@ docker run -p 8080:8080 -p 50000:50000 --name <nombre_contenedor> jenkins/jenkin
 ```
 
 # COLOCAR UNA CAPTURA DE PANTALLA  DEL ACCESO http://localhost:8080
-![Imagen](imagenes/jenkins-local.png)
+![Imagen](imagenes/jenkins-local1.png)
 ### ¿Cómo obtener la contraseña solicitada?
 Para obtener la contraseña solicitada es necesario ingresar al contenedor.
 
